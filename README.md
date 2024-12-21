@@ -1,7 +1,6 @@
-# Hi, I'm Rashid 👋
+# Hi there, I'm Rashid 👋
 
-I'm a backend developer passionate about building scalable web applications and delving into the world of full-stack development. I actively contribute to and enjoy collaborating on open-source projects, especially those related to Laravel and PHP. Feel free to reach out via WhatsApp for collaboration!
----
+I'm a backend developer passionate about building scalable web applications and delving into the world of full-stack development. I actively contribute to and enjoy collaborating on open-source projects, especially those related to Laravel and PHP. Feel free to reach out via WhatsApp for collaboration!---
 
 ### 🛠 Skills and Technologies
 
