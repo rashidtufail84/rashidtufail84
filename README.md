@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Rashid 👋
 
-<!--
-**rashidtufail84/rashidtufail84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a backend developer passionate about building scalable web applications and delving into the world of full-stack development. I actively contribute to and enjoy collaborating on open-source projects, especially those related to Laravel and PHP. Feel free to reach out via WhatsApp for collaboration!
+---
 
-Here are some ideas to get you started:
+### 🛠 Skills and Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Category                | Skills                                                                  |
+|-------------------------|-------------------------------------------------------------------------|
+| **Programming Languages** | JavaScript, PHP                                                       |
+| **Frontend**              | HTML, CSS, Bootstrap                                                  |
+| **Backend**               | Laravel, REST APIs                                                    |
+| **Database Management**   | MySQL, Redis                                                          |
+| **Tools & Platforms**     | Git, VS Code, GitHub Actions                                          |
+| **Server**                | Apache, Lightspeed                                                    |
+| **Cloud/Hosting**         | AWS, WHM C Panel Hostings                                             |
+
+---
+
+### 📫 How to Reach Me
+
+- Email: [rashidtufail84@gmail.com](mailto:rashidtufail84@gmail.com)
+- LinkedIn: [Muhammad Rashid](https://www.linkedin.com/in/muhammadrashidt/)
+
+Let’s build something amazing together!
