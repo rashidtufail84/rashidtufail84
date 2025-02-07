@@ -10,7 +10,7 @@ I'm a backend developer passionate about building scalable web applications and 
 | **Frontend**              | HTML, CSS, Bootstrap                                                  |
 | **Backend**               | Laravel, REST APIs                                                    |
 | **Database Management**   | MySQL, Redis                                                          |
-| **Tools & Platforms**     | Git, VS Code                                                          |
+| **Tools & Platforms**     | Git, VS Code, PHPMyAdmin                                                          |
 | **Server**                | Apache, Lightspeed                                                    |
 | **Cloud/Hosting**         | VPS, WHM C Panel Hostings                                             |
 
