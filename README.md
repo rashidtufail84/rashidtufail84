@@ -18,7 +18,7 @@ I'm a backend developer passionate about building scalable web applications and 
 
 ### 📫 How to Reach Me
 
-- Email: [rashidtufail84@gmail.com](mailto:rashidtufail84@gmail.com)
-- LinkedIn: [Muhammad Rashid](https://www.linkedin.com/in/muhammadrashidt/)
-
+- **Email:** [rashidtufail84@gmail.com](mailto:rashidtufail84@gmail.com)
+- **LinkedIn:** [Muhammad Rashid](https://www.linkedin.com/in/muhammadrashidt/)
+- **WhatsApp:** [+92 323 433 1899](https://wa.me/923234331899) 
 Let’s build something amazing together!
