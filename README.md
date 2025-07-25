@@ -11,15 +11,15 @@ I'm a backend developer passionate about building scalable web applications and 
 | **Backend**               | Laravel, REST APIs                                                    |
 | **Database Management**   | MySQL, Redis                                                          |
 | **Tools & Platforms**     | Git, VS Code, PHPMyAdmin                                                          |
-| **Server**                | Apache, Lightspeed                                                    |
-| **Cloud/Hosting**         | VPS, WHM C Panel Hostings                                             |
+| **Server**                | Apache, Lightspeed, Nginx                                                    |
+| **Cloud/Hosting**         | AWS, VPS, WHM C Panel Hostings                                             |
 
 ---
 
 ### 📫 How to Reach Me
 
 - **Email:** [rashidtufail84@gmail.com](mailto:rashidtufail84@gmail.com)
-- **LinkedIn:** [Muhammad Rashid](https://www.linkedin.com/in/muhammadrashidt/)
+- **LinkedIn:** [Muhammad Rashid](https://www.linkedin.com/in/your-ai-saas-mvp-dev/)
 - **WhatsApp:** [+92 323 433 1899](https://wa.me/923234331899)
   
 Let’s build something amazing together!
